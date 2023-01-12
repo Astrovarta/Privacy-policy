@@ -25,6 +25,7 @@ When you use our app, we collect certain information related to your device, inc
 **Permission requires for functionalities to work:**
 
 Location permission: This permission is required to get panchang details.
+
 Default Sms handler: This permission is required for Auto detection of Otp.
 
 
